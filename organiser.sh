@@ -28,3 +28,6 @@ do
    mv "$file" test-files/Audio/
    echo "Moved $file to Audio"
 done
+
+# Display completion message
+echo "Finished organising files."

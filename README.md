@@ -68,16 +68,11 @@ test-files/
 ## What I Learned
 
 This project helped me practise:
-- Python loops and conditionals
-- Dictionaries and file extension mapping
-- File system automation
-- Path handling using `os.path`
-- File movement using `shutil`
-- Bash scripting basics
-- Linux terminal commands
+- Python and Bash scripting fundamentals
+- File system automation and path handling
 - Logging and timestamp generation
 - Defensive programming and duplicate file handling
-- Testing scripts safely using dummy files
+- Testing automation scripts safely using dummy files
 
 I also learned the importance of handling edge cases, such as unknown file types and duplicate filenames, to make automation scripts safer and more reliable.
 
